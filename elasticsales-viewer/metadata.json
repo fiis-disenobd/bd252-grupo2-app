@@ -1,0 +1,5 @@
+{
+  "name": "ElasticSales Viewer",
+  "description": "A modern dashboard to search and visualize sales history from Elasticsearch using manual filters.",
+  "requestFramePermissions": []
+}
